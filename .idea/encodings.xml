@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionAbsence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionAbsence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionDepartement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionDepartement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionDocument/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionDocument/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionSF/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionSF/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionUser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionUser/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/discovery-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projet-jee/ProjetJee/src/main/java" charset="UTF-8" />
+  </component>
+</project>

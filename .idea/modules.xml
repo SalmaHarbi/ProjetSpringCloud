@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionAbsence/GestionAbsence.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/GestionAbsence/GestionAbsence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionDepartement/GestionDepartement.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/GestionDepartement/GestionDepartement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionDocument/GestionDocument.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/GestionDocument/GestionDocument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionSF/GestionSF.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/GestionSF/GestionSF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionUser/GestionUser.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/GestionUser/GestionUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/ProjetJee.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/ProjetJee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/gateway/gateway.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project2.iml" filepath="$PROJECT_DIR$/.idea/project2.iml" />
+    </modules>
+  </component>
+</project>

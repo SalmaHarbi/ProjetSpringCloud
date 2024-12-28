@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/GestionAbsence/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/GestionDepartement/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/GestionDocument/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/GestionSF/pom.xml" />
+        <option value="$PROJECT_DIR$/projet-jee/ProjetJee/GestionUser/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
