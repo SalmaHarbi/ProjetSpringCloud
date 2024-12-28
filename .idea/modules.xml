@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionSF/GestionSF.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/GestionSF/GestionSF.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/GestionUser/GestionUser.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/GestionUser/GestionUser.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/ProjetJee.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/ProjetJee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/ServerConfig/ServerConfig.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/ServerConfig/ServerConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/discovery-service/discovery-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet-jee/ProjetJee/gateway/gateway.iml" filepath="$PROJECT_DIR$/projet-jee/ProjetJee/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/project2.iml" filepath="$PROJECT_DIR$/.idea/project2.iml" />

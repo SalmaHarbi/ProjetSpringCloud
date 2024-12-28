@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GestionSF" />
+        <module name="ServerConfig" />
         <module name="GestionDepartement" />
         <module name="GestionAbsence" />
         <module name="GestionUser" />
@@ -28,6 +29,7 @@
       <module name="GestionSF" target="16" />
       <module name="GestionUser" target="16" />
       <module name="ProjetJee" target="16" />
+      <module name="ServerConfig" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -39,6 +41,7 @@
       <module name="GestionSF" options="-parameters" />
       <module name="GestionUser" options="-parameters" />
       <module name="ProjetJee" options="-parameters" />
+      <module name="ServerConfig" options="-parameters" />
       <module name="discovery-service" options="-parameters" />
       <module name="gateway" options="-parameters" />
     </option>
